@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e64195129775542eba36776bf5b73c09
+timeCreated: 1540112137
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _ShadowMatcapTex: {fileID: 2800000, guid: 44d209fdf321840569dd21a5b61e277d, type: 3}
+  - _RimLightMatcapTex: {fileID: 2800000, guid: d247459fa9b47465d92f1eb93eba56e9,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
