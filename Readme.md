@@ -2,6 +2,12 @@
 
 こちらの記事 [他人が触れる揺れもの構造 - VRChat KemonoClub Wiki](https://seesaawiki.jp/vrchat_kemonoclub/d/%C2%BE%BF%CD%A4%AC%BF%A8%A4%EC%A4%EB%CD%C9%A4%EC%A4%E2%A4%CE%B9%BD%C2%A4)を参考に実装してみた。
 
+## 使用方法
+
+1. このリポジトリをクローンorダウンロードしてUnityで開く
+2. VRChat SDKを導入する
+3. アップロードテストよしなに
+
 ## 現状
 
 - Unity上においておおむね正常に見える。
