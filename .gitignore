@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+/Assets/VRCSDK
+/Assets/VRCSDK.meta
+/Assets/Plugins/VRCSDK
+/Assets/Plugins/VRCSDK.meta
