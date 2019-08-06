@@ -26,6 +26,8 @@
 - 胸の2つのコライダー干渉を疑って1つのみにしてみたが荒ぶる。
 - bustについているConfigurable Jointはそのままで、Colliderを非アクティブにすると荒ぶらなかった。（しかし胸は触れない）
 - bustについているColliderはそのままで、Configurable Jointを削除しても荒ぶった。
+- Colliderをarmature相当の外のbody相当と同階層に出してfixed jointしたが相変わらず暴れた
+- Colliderの初期位置をVRChatが付与するアバターのCapsuleより外側っぽい位置に置いたところ荒ぶらなかった（胸と位置が異なるので触れない）
 
 ### 2. VRChatにおいて触った人ローカルではない表示にしたい（努力目標）
 
